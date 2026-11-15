@@ -1,0 +1,24 @@
+body{
+  background-color:  #0b1026;
+  color: #e6ecff;
+  font-size: 18px;
+  text-align: center;
+}
+
+header{
+  background-color: #111a3d;
+  border: 2px solid #89a8ff;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 42px;
+}
+h2{
+	color: #FFD900;
+}
+
+footer{
+  background-color: #111a3d;
+  border: 2px solid #89a8ff;
+}
